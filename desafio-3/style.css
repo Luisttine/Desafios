@@ -1,0 +1,32 @@
+a {
+    color: gray;
+}
+.fundo {
+    background-color:  #fff5ee;
+    height: 55px;
+    padding-top: 30px;
+}
+.fundo1 {
+    background-color: #e6e7e6;
+    padding-right: 0px;
+    height: auto;
+    text-align: center;
+}
+div{
+    padding-right: 15px;
+}
+p, h2 {
+    text-align: left;
+    padding: 5px;
+}
+b {
+    text-align: left;
+    margin: 0;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+#imagem {
+    border: 5px;
+    background-color: gray;
+    align-items: left;
+}
