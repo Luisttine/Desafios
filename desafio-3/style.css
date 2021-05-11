@@ -25,8 +25,9 @@ b {
     padding-bottom: 5px;
     padding-left: 5px;
 }
-#imagem {
-    border: 5px;
+.imagem {
+    padding: 5px;
     background-color: gray;
-    align-items: left;
+    width: 650px;
+    height: 430px;
 }
